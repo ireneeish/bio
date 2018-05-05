@@ -1,0 +1,57 @@
+a {
+    color: rgb(143, 108, 153);
+}
+/* li {
+    list-style: none;
+} */
+img {
+    height:200px;
+}
+/* #panda {
+    width: 500px; */
+/* } */
+body {
+    background-image:linear-gradient(180deg, rgba(255, 255, 255, 0.644), rgba(255, 255, 255, 0.781)) ,url('http://getwallpapers.com/wallpaper/full/8/1/4/29917.jpg');
+}
+.container {
+    margin-top: 5%;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-bottom: 5%;
+}
+.row1 {
+    text-align: center;
+   
+}
+h1 {
+    font-family: 'Monoton';
+}
+.row2 {
+    text-align: justify;
+    border:1px solid black;
+    padding:1%;
+    padding-left:3%;
+    padding-right:3%;
+    margin-top: 2%;
+}
+#linkedin {
+    text-align: center;
+}
+.list-content {
+    display: inline-block;
+    width: 100%;
+    height: 200px;
+}
+.row3 {
+    display: inline;
+    float: left;
+    margin-left: 30%;
+}
+.row4 {
+    display: inline;
+    float: right;
+    margin-right: 30%;
+}
+.row5 {
+    text-align: center;
+}
