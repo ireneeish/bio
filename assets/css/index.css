@@ -11,7 +11,10 @@ img {
     width: 500px; */
 /* } */
 body {
-    background-image:linear-gradient(180deg, rgba(255, 255, 255, 0.644), rgba(255, 255, 255, 0.781)) ,url('http://getwallpapers.com/wallpaper/full/8/1/4/29917.jpg');
+    background-image:linear-gradient(180deg, rgba(255, 255, 255, 0.644), rgba(255, 255, 255, 0.781)) ,url('https://images.unsplash.com/photo-1463043254199-7a3efd782ad1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5ed9e0b8d3fc0a631782d9ec700c760d&auto=format&fit=crop&w=1050&q=80');
+    background-size: contain;
+    background-repeat: repeat-y;
+    /* background-position-x: 50%; */
 }
 .container {
     margin-top: 5%;
@@ -24,7 +27,7 @@ body {
    
 }
 h1 {
-    font-family: 'Monoton';
+    font-family: 'Pacifico';
 }
 .row2 {
     text-align: justify;
